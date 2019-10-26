@@ -1,0 +1,10 @@
+2019/10/27 01:53:23 [info] 6946#6946: *8 client 127.0.0.1 closed keepalive connection
+2019/10/27 01:53:51 [error] 6946#6946: *9 open() "/etc/nginx/html/file" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "HEAD /file HTTP/1.1", host: "localhost"
+2019/10/27 01:53:51 [info] 6946#6946: *9 client 127.0.0.1 closed keepalive connection
+2019/10/27 01:54:03 [error] 6946#6946: *10 open() "/mnt/f/YandexDisk/Progs/python/web/uploads/uploads/file.txt" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "HEAD /uploads/file.txt HTTP/1.1", host: "localhost"
+2019/10/27 01:54:03 [info] 6946#6946: *10 client 127.0.0.1 closed keepalive connection
+2019/10/27 01:56:23 [info] 7002#7002: *11 client 127.0.0.1 closed keepalive connection
+2019/10/27 01:56:31 [error] 7002#7002: *12 open() "/mnt/f/YandexDisk/Progs/python/web/uploads/file.tx" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "HEAD /uploads/file.tx HTTP/1.1", host: "localhost"
+2019/10/27 01:56:31 [info] 7002#7002: *12 client 127.0.0.1 closed keepalive connection
+2019/10/27 01:56:49 [error] 7002#7002: *13 open() "/mnt/f/YandexDisk/Progs/python/web/public/uploas/file.txt" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "HEAD /uploas/file.txt HTTP/1.1", host: "localhost"
+2019/10/27 01:56:49 [info] 7002#7002: *13 client 127.0.0.1 closed keepalive connection
